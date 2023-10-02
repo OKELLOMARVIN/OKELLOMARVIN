@@ -10,6 +10,7 @@ Intro
 * 🌱 Adding value to businesses and improving business processes
 * 📫 Feel free to reach me out at [okellomarvinkevin@gmail.com](okellomarvinkevin@gmail.com)
 * LinkedIn: [Okello Marvin](https://www.linkedin.com/in/okello-marvin-kevin-ochira-959767158)
+* My [Curriculum Vitae](https://drive.google.com/file/d/1uUXhnI_xt8MHWBP89pchf-_X0g5JqIsU/view?usp=sharing)
 <!--h1 without bottom border-->
 <div align="left" id="user-content-toc">
   <ul>
