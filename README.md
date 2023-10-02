@@ -1,16 +1,30 @@
-### Hi there 👋
+<!--h1 without bottom border-->
+<div align="left" id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Okello Marvin</h1></summary>
+  </ul>
+</div>
 
-<!--
-**OKELLOMARVIN/OKELLOMARVIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Intro
+* 🔭 I'm currently working on React, React Native, Typescript, CSS
+* 🌱 Adding value to businesses and improving business processes
+* 📫 Feel free to reach me out at [okellomarvinkevin@gmail.com](okellomarvinkevin@gmail.com)
+* LinkedIn: [Okello Marvin](https://www.linkedin.com/in/okello-marvin-kevin-ochira-959767158)
+<!--h1 without bottom border-->
+<div align="left" id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,git,css,docker,firebase,github,html,js,materialui,mongodb,postman,redux,tailwind,ts,python,linux,django,gitlab&perline=10" />
+  </a>
+</p>
+<!--h2 without bottom border-->
+<div align="left" id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
+</div>
