@@ -6,7 +6,7 @@
 </div>
 
 Intro
-* 🔭 I'm currently working on React, React Native, Typescript, CSS
+* 🔭 I'm currently working using React, React Native, Typescript, CSS in different projects
 * 🌱 Adding value to businesses and improving business processes
 * 📫 Feel free to reach me out at [okellomarvinkevin@gmail.com](okellomarvinkevin@gmail.com)
 * LinkedIn: [Okello Marvin](https://www.linkedin.com/in/okello-marvin-kevin-ochira-959767158)
